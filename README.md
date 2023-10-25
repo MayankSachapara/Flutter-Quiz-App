@@ -1,3 +1,3 @@
-# quiz_app_tutorial
+# flutter_quiz_app
 
 A new Flutter project.
